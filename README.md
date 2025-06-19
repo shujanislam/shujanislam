@@ -2,7 +2,7 @@
 
 ### 🚀 Full Stack Developer | OSS Explorer | System Design Enthusiast
 
-Hey! I'm Shujan Islam — a full stack web developer with a passion for building bold and blazing-fast applications. I talk to databases, servers, and browsers more fluently than I talk to people. With 4+ years of hands-on coding, I’ve built robust, real-world projects backed by PostgreSQL, Kafka, Redis, and styled with React & Next.js. You’ll usually find me buried in terminals or sketching out system designs with way too much coffee by my side ☕.
+Hey! I'm Shujan Islam — a full stack web developer with a passion for building scalable and blazingly fast web apps. I talk to databases, servers, and browsers more fluently than I talk to people. With 4+ years of hands-on coding, I’ve built robust, real-world projects backed by PostgreSQL, Kafka, Redis, and styled with React & Next.js. You’ll usually find me buried in terminals or sketching out system designs with way too much coffee by my side ☕.
 
 ---
 
@@ -29,6 +29,7 @@ I'm stepping into the world of **open-source** contributions 🌍 and distribute
       <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
       <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
       <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
       <img src="https://img.shields.io/badge/C-282C34?style=for-the-badge&logo=c&logoColor=white" />
     </td>
@@ -45,6 +46,7 @@ I'm stepping into the world of **open-source** contributions 🌍 and distribute
     <td>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
     </td>
   </tr>
@@ -87,4 +89,3 @@ Have a question, project idea, or want to geek out about architecture, distribut
 ---
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=shujanislam.visitorbadge)
-
